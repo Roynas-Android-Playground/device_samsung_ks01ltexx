@@ -14,6 +14,7 @@
 # limitations under the License.
 #
 
+PRODUCT_GMS_CLIENTID_BASE := android-samsung
 
 # Inherit some common Lineage-CRDroid stuff.
 $(call inherit-product, vendor/lineage/config/common_full_phone.mk)
